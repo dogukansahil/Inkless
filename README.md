@@ -13,6 +13,15 @@
 - Extremely lightweight and portable
 - Ideal for static hosting (e.g. Nginx, GitHub Pages, Cloudflare Pages)
 
+### Supported UI Languages
+
+- English (`en`)
+- Turkish (`tr`)
+- German (`de`)
+- French (`fr`)
+- Spanish (`es`)
+
+
 ## ⚙️ Usage
 
 Simply host the repository on any static file server or CDN platform.
