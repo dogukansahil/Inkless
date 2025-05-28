@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/logo.png" alt="Inkless Logo" width="120">
+  <img src="docs/images/logo.png" alt="Inkless Logo" width="125">
 </p>
 
 # Inkless
